@@ -32,6 +32,7 @@ Welcome to the repository for all the tasks, mini-projects, and mega-projects as
 📄 **Documentation**:
 - For this task, submit a Jupyter Notebook.
 - Create a folder named `Task 3`, place the notebook in it, and add it to the same repository for review.
+
 This task marks the completion of our setup phase. The next tasks will focus on Python programming.
 
 ---
