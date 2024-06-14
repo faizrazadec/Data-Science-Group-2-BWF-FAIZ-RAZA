@@ -1,3 +1,4 @@
 *.txt
 *.docx
 **/.ipynb_checkpoints/
+*.py
