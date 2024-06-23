@@ -227,7 +227,7 @@ For `n = 5`, the output should be:
 
 The code for both applications ensures data persistence by saving records to text files and reloading them when the program starts. Each application is designed to be user-friendly, providing clear prompts and feedback throughout the interaction.
 
-# Task 06: Student Data and Library Book Management Applications 📚
+# Task 07: Student Data and Library Book Management Applications 📚
 ============================================================
 
 ## Overview
@@ -282,6 +282,38 @@ Developed two separate applications:
 
 * Records saved to text files
 * Reloaded when program starts
+
+# Task 08: Inventory Management System 📚
+============================================================
+
+## Introduction
+
+The Inventory Management System is a Python application designed to manage products, categories, and stock levels. The system allows users to add products, update stock levels, and display products by category.
+
+## Goals
+
+* Create a Python application that uses data structures (lists, dictionaries, sets, tuples) to manage inventory.
+* Implement functions to add products, update stock levels, and display products.
+* Use classes to define Product and Inventory objects.
+* Demonstrate understanding of Python data structures and object-oriented programming.
+
+## Requirements
+
+* Python 3.8 or higher
+* Basic understanding of Python data structures and object-oriented programming
+
+## Tasks
+
+* Define data structures to store product information
+* Implement functions to add products, update stock levels, and display products
+* Use classes to define Product and Inventory objects
+* Test the application with sample data
+
+## Deliverables
+
+* A Python script (`inventory.py`) that implements the Inventory Management System
+* A Markdown file (`intro.md`) that introduces the task and provides an overview of the application
+* A sample data file (`data.txt`) that contains product information
 
 ---
 
