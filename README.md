@@ -227,6 +227,61 @@ For `n = 5`, the output should be:
 
 The code for both applications ensures data persistence by saving records to text files and reloading them when the program starts. Each application is designed to be user-friendly, providing clear prompts and feedback throughout the interaction.
 
+# Task 06: Student Data and Library Book Management Applications 📚
+============================================================
+
+## Overview
+
+Developed two separate applications:
+
+1. **Student Data Application**: for managing student records
+2. **Library Book Management Application**: for managing a library book collection
+
+## Features
+
+### Student Data Application
+
+* **Add new students**
+* **Search for students by ID**
+* **Delete students**
+* **Display all student data**
+
+### Library Book Management Application
+
+* **Add new books**
+* **Search for books by ID**
+* **Borrow and return books**
+* **Display all book data**
+
+## Documentation
+
+### Student Data Application
+
+#### Functionality
+
+* Add new students
+* Search for students by ID
+* Delete students
+* Display all student data
+
+#### Data Persistence
+
+* Records saved to text files
+* Reloaded when program starts
+
+### Library Book Management Application
+
+#### Functionality
+
+* Add new books
+* Search for books by ID
+* Borrow and return books
+* Display all book data
+
+#### Data Persistence
+
+* Records saved to text files
+* Reloaded when program starts
 
 ---
 
