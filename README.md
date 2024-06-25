@@ -315,6 +315,21 @@ The Inventory Management System is a Python application designed to manage produ
 * A Markdown file (`intro.md`) that introduces the task and provides an overview of the application
 * A sample data file (`data.txt`) that contains product information
 
+# Task 9: Introduction to Statistics
+
+## Overview
+Statistics and probability are essential for data analysis. This task introduces key concepts such as mean, median, mode, and common distributions (normal, binomial, Poisson, and uniform). You'll also learn basic probability.
+
+## Objectives
+- Understand mean, median, and mode.
+- Learn common distributions:
+  - Normal
+  - Binomial
+  - Poisson
+  - Uniform
+- Grasp basic probability concepts.
+- Solve problems manually and document your work.
+
 ---
 
 Stay tuned for more updates and additional tasks as we progress through the Data Science Fellowship! 🚀
