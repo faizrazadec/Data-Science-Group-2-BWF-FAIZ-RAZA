@@ -330,6 +330,34 @@ Statistics and probability are essential for data analysis. This task introduces
 - Grasp basic probability concepts.
 - Solve problems manually and document your work.
 
+# Task 10: NumPy Tasks
+## Introduction
+
+📚 This project demonstrates proficiency in using NumPy for various array operations and statistical calculations. The tasks cover:
+
+📝 Creating arrays of different dimensions
+🤖 Performing element-wise operations
+📊 Calculating dot product, mean, median, standard deviation, and correlation coefficient
+📈 Generating random numbers from normal and uniform distributions
+🎲 Simulating a random process (rolling a die)
+
+🔍 Practical Application: We applied these NumPy skills to build a Matrix Calculator that performs addition, subtraction, and multiplication of matrices, and also calculates statistics and simulates random processes.
+
+👉 Explore the tasks to see the code in action!
+
+# Task 11: NumPy Advanced Operations
+## Introduction
+
+📚 This task explores advanced NumPy operations, including:
+
+📝 Indexing and Slicing
+🤖 Broadcasting
+
+Completed tasks include extracting sub-arrays, fancy indexing, and element-wise operations. Demonstrates proficiency in using NumPy for efficient array manipulation.
+
+🔍 Practical Application: Image Processing Application
+
+Used NumPy advanced operations to perform image processing tasks such as cropping, flipping, rotating, filtering, and resizing.
 ---
 
 Stay tuned for more updates and additional tasks as we progress through the Data Science Fellowship! 🚀
