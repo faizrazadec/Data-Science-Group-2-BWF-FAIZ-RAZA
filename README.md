@@ -358,6 +358,51 @@ Completed tasks include extracting sub-arrays, fancy indexing, and element-wise 
 🔍 Practical Application: Image Processing Application
 
 Used NumPy advanced operations to perform image processing tasks such as cropping, flipping, rotating, filtering, and resizing.
+
+# Task 12: Introduction to Pandas
+## Basics of Series and DataFrames
+
+Completed tasks include:
+
+* Creating Pandas Series from various data structures
+* Performing operations on Series and DataFrames
+* Filtering and accessing data
+* Creating DataFrames from different sources
+* Data manipulation and analysis
+
+📚 Practical Application: Student Database Management
+
+Used Pandas to create a student database, perform calculations, and generate reports. 📊
+
+Demonstrates proficiency in using Pandas for data handling and analysis. 🎉
+
+# Task 13: Data Manipulation with Pandas
+## Mastering Indexing, Selection, and Grouping
+
+📚 Completed tasks include:
+
+* Loading a DataFrame from a CSV file
+* Setting a specific column as the index
+* Selecting columns and rows using various methods (.loc, .iloc, etc.)
+* Filtering rows based on conditions
+* Grouping data by one or multiple columns
+* Calculating mean, sum, and size of groups
+* Applying multiple aggregation functions using .agg
+* Selecting rows based on multiple conditions using .query and .isin
+* Renaming columns
+
+📊 Practical Application: Sales Data Analysis
+
+Used Pandas to analyze sales data, calculating total sales by region, product, and quarter. Demonstrated data manipulation and analysis skills, including:
+
+* Loading sales data into a DataFrame
+* Setting the "Date" column as the index
+* Selecting and filtering data
+* Grouping and aggregating data
+* Renaming columns
+
+🎉 Demonstrates proficiency in using Pandas for data manipulation and analysis.
+
 ---
 
 Stay tuned for more updates and additional tasks as we progress through the Data Science Fellowship! 🚀
