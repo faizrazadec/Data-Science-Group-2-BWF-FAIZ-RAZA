@@ -9,4 +9,6 @@
 📈 Generating random numbers from normal and uniform distributions
 🎲 Simulating a random process (rolling a die)
 
+🔍 Practical Application: We applied these NumPy skills to build a Matrix Calculator that performs addition, subtraction, and multiplication of matrices, and also calculates statistics and simulates random processes.
+
 👉 Explore the tasks to see the code in action!
