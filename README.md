@@ -440,6 +440,63 @@ Used Pandas to analyze sales data, calculating total sales by region, product, a
 ## Practicle Application: Data Processor
 ### Let's get started! 💻
 
+# Task 15: Data Wrangling Tasks, Join, Combine, and Reshape
+
+### Overview
+In this task, I demonstrated various data wrangling techniques using Pandas, including joining, combining, and reshaping DataFrames. 📊
+
+### Tasks
+
+* **Merge DataFrames**: Merge two DataFrames on a single key 🔑 and multiple keys 🔑🔑.
+* **Join DataFrames**: Perform outer join 🤝, inner join 🔒, left join ←, and right join → on two DataFrames.
+* **Concatenate DataFrames**: Concatenate two DataFrames along rows 🔽 and columns 🔠, and concatenate a list of DataFrames 📚.
+* **Reshape Data**: Reshape data using the `melt` function to convert from wide to long format 🔄.
+* **Create Pivot Table**: Create a pivot table to summarize data 📊.
+* **Group and Aggregate Data**: Group data by one or more columns 📈 and perform aggregation functions (e.g., sum, mean, count) 📊.
+* **Apply Multiple Aggregations**: Apply multiple aggregation functions to grouped data 🤩.
+* **Custom Grouping**: Use the `groupby` function to group data and apply custom functions 📈.
+
+### Summary
+This task demonstrated various data wrangling techniques to manipulate and analyze data effectively using Pandas. 📊
+
+
+## Task 16: Data Visualization Tasks, Introduction to Matplotlib
+
+### Overview
+In this task, I learned the basics of Matplotlib, a popular data visualization library in Python. I created various types of plots to visualize data, including line plots, scatter plots, bar charts, and pie charts. 📊
+
+### Tasks
+
+#### Basic Plots
+
+* **Line Plot**: Create a simple line plot 📈.
+* **Multiple Lines**: Plot multiple lines on the same graph 📊.
+* **Markers**: Add markers to a line plot 🔴.
+* **Customization**: Customize line styles and colors 🎨.
+
+#### Scatter Plots
+
+* **Basic Scatter**: Create a basic scatter plot 🔵.
+* **Customization**: Customize marker styles, sizes, and colors 🎨.
+* **Multiple Plots**: Plot multiple scatter plots on the same graph 📊.
+* **Labels and Titles**: Add labels and titles to the scatter plot 📝.
+
+#### Bar Charts
+
+* **Vertical Bar**: Create a vertical bar chart 📊.
+* **Horizontal Bar**: Create a horizontal bar chart 📈.
+* **Customization**: Customize bar colors and add edge colors 🎨.
+
+#### Pie Charts
+
+* **Basic Pie**: Create a basic pie chart 🍰.
+* **Customization**: Customize slice colors and add a legend 🎨.
+* **Explode Slice**: Explode a slice of the pie chart 🤯.
+* **Percentage Labels**: Add percentage labels to slices 📊.
+
+### Summary
+This task introduced me to the basics of Matplotlib and data visualization, enabling me to create various types of plots to effectively communicate insights and patterns in data. 📊
+
 
 ---
 
