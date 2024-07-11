@@ -1,4 +1,4 @@
-# Task 18: Introduction to Seaborn - Visualization with Seaborn 📊
+# Introduction to Seaborn - Visualization with Seaborn 📊
 
 In this task, I explored the basics of data visualization using Seaborn, a popular Python library built on top of Matplotlib. I learned about various types of plots offered by Seaborn, including:
 
