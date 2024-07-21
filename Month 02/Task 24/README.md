@@ -1,36 +1,76 @@
-# Introduction to Regression Models using scikit-learn 📚
+# Evaluation Techniques for Regression Models 📊
 
-In this project, we explore and apply a range of regression models using the `scikit-learn` library. Regression analysis is crucial for understanding relationships between variables and making predictions based on data. By implementing different regression techniques, we can assess their effectiveness and suitability for various types of data.
+Evaluating regression models is essential for understanding their performance and effectiveness. Various metrics provide insights into different aspects of model accuracy and error. Here’s an overview of common evaluation techniques used to assess regression models.
 
-## Objectives 🎯
+## 1. Mean Absolute Error (MAE) 📉
 
-1. **Understand Key Regression Models**: Gain insights into fundamental regression models including Linear Regression, Ridge Regression, Lasso Regression, Support Vector Regression (SVR), Decision Tree Regression, and Random Forest Regression.
+### Overview
+MAE measures the average magnitude of errors in a set of predictions, without considering their direction. It provides a straightforward metric for the model's prediction accuracy.
 
-2. **Implement and Compare Models**: Use `scikit-learn` to implement these models and evaluate their performance on a dataset. This involves training each model, making predictions, and comparing their effectiveness.
+### Formula
+\[ \text{MAE} = \frac{1}{n} \sum_{i=1}^{n} | \hat{y}_i - y_i | \]
 
-3. **Hands-On Experience**: Develop practical skills in applying regression models, tuning their parameters, and interpreting their results.
+Where:
+- \( \hat{y}_i \) is the predicted value.
+- \( y_i \) is the actual value.
+- \( n \) is the number of data points.
 
-## Models Explored 🔍
+## 2. Mean Squared Error (MSE) 📏
 
-1. **Linear Regression**: A basic model that captures the linear relationship between features and the target variable.
-   
-2. **Ridge Regression**: An extension of linear regression with regularization to handle overfitting by penalizing large coefficients.
-   
-3. **Lasso Regression**: Another regularized version of linear regression that promotes sparsity in the model by penalizing absolute coefficient values.
-   
-4. **Support Vector Regression (SVR)**: A model that uses the principles of Support Vector Machines to fit a regression line within a margin of tolerance.
-   
-5. **Decision Tree Regression**: Models the data using a decision tree structure to make predictions based on feature splits.
-   
-6. **Random Forest Regression**: An ensemble approach that combines multiple decision trees to improve accuracy and reduce overfitting.
+### Overview
+MSE calculates the average of the squared differences between predicted and actual values. It emphasizes larger errors due to squaring the differences, making it sensitive to outliers.
 
-## Implementation 💻
+### Formula
+\[ \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (\hat{y}_i - y_i)^2 \]
 
-Using `scikit-learn`, each model was implemented, trained on a dataset, and evaluated. This process provided valuable insights into how different models perform and how they can be applied to solve regression problems.
+## 3. Root Mean Squared Error (RMSE) 🌟
+
+### Overview
+RMSE is the square root of MSE, providing error estimates in the same unit as the target variable. It offers a more interpretable measure of prediction accuracy compared to MSE.
+
+### Formula
+\[ \text{RMSE} = \sqrt{\text{MSE}} \]
+
+## 4. R-squared (R²) 📐
+
+### Overview
+R-squared indicates the proportion of variance in the dependent variable that is predictable from the independent variables. It measures how well the model explains the variability of the target variable.
+
+### Formula
+\[ R^2 = 1 - \frac{\text{SS}_{\text{res}}}{\text{SS}_{\text{tot}}} \]
+
+Where:
+- \( \text{SS}_{\text{res}} \) is the sum of squared residuals.
+- \( \text{SS}_{\text{tot}} \) is the total sum of squares.
+
+## 5. Adjusted R-squared 📏
+
+### Overview
+Adjusted R-squared adjusts the R-squared value for the number of predictors in the model, providing a more accurate measure when comparing models with different numbers of predictors.
+
+### Formula
+\[ \text{Adjusted } R^2 = 1 - \left( \frac{1 - R^2}{n - k - 1} \right) \times (n - 1) \]
+
+Where:
+- \( n \) is the number of observations.
+- \( k \) is the number of predictors.
+
+## 6. Mean Absolute Percentage Error (MAPE) 📊
+
+### Overview
+MAPE expresses prediction accuracy as a percentage, providing an intuitive measure of how well the model performs relative to the size of the target variable.
+
+### Formula
+\[ \text{MAPE} = \frac{1}{n} \sum_{i=1}^{n} \left| \frac{\hat{y}_i - y_i}{y_i} \right| \times 100\% \]
+
+## 7. Median Absolute Error 🧮
+
+### Overview
+Median Absolute Error measures the median of the absolute errors, offering a robust measure of central tendency that is less sensitive to outliers compared to MAE.
+
+### Formula
+\[ \text{Median Absolute Error} = \text{median} \left( | \hat{y}_i - y_i | \right) \]
 
 ## Conclusion 🎉
 
-This exploration highlights the versatility and effectiveness of various regression models in `scikit-learn`. By comparing these models, we can make informed decisions on which approach is best suited for different types of data and prediction tasks.
-
-Feel free to delve into the details of each model and see how they can be applied to your own data analysis tasks!
-
+These evaluation metrics are crucial for comparing and refining regression models. Each metric provides different insights into the model's performance, helping to choose the most appropriate model for a given task.
