@@ -74,6 +74,3 @@ Median Absolute Error measures the median of the absolute errors, offering a rob
 ## Conclusion 🎉
 
 These evaluation metrics are crucial for comparing and refining regression models. Each metric provides different insights into the model's performance, helping to choose the most appropriate model for a given task.
-
-For more detailed information, you can refer to the [Analytics Vidhya article](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/).
-
