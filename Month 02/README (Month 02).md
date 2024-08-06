@@ -1,3 +1,4 @@
+# Month 02
 [Task 18: Introduction to Seaborn - Visualization with Seaborn 📊](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2002/Task%2018)
 
 [Task 19: Statistical Plotting with Seaborn 📈](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2002/Task%2019)
@@ -21,3 +22,7 @@
 [Task 28: Exploring Cross-Validation, Overfitting, and Underfitting](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2002/Task%2028)
 
 [Task 29: Hyperparameter Tuning Techniques](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2002/Task%2029)
+
+[Task 30: Some preprocessing Using scikit-learn](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2002/Task%2030)
+
+[Task 31: Dimensionality Reduction Techniques](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2002/Task%2031)
