@@ -1,7 +1,7 @@
 # Mini-Project 01
 [Month 01 (Mini-project) Data Analysis](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/blob/main/Projects/Mini%20Project%2001/Data%20Analysis.ipynb)
 
-[Month 01 (Mini-project) Data Analysis](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/blob/main/Projects/Mini%20Project%2002/Models.ipynb)
+[Month 02 (Mini-project) Models](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/blob/main/Projects/Mini%20Project%2002/Models.ipynb)
 
 # Month 01
 [Task 1 ->An introduction to Git.](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2001/Task%2001)
