@@ -1,3 +1,8 @@
+# Mini-Project 01
+[Month 01 (Mini-project) Data Analysis](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/blob/main/Projects/Mini%20Project%2001/Data%20Analysis.ipynb)
+
+[Month 01 (Mini-project) Data Analysis](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/blob/main/Projects/Mini%20Project%2002/Models.ipynb)
+
 # Month 01
 [Task 1 ->An introduction to Git.](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2001/Task%2001)
 
@@ -30,9 +35,6 @@
 [Task 16: Introduction to Matplotlib (basic plots: line, scatter, bar)](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2001/Task%2016)
 
 [Task 17: Advanced plotting techniques (subplots, histograms, box plots)](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2001/Task%2017)
-
-## Mini-Project 01
-[Month 01 (Mini-project) Data Analysis]()
 
 # Month 02
 [Task 18: Introduction to Seaborn - Visualization with Seaborn 📊](https://github.com/faizrazadec/Data-Science-Group-2-BWF-FAIZ-RAZA/tree/main/Month%2002/Task%2018)
